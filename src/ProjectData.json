@@ -1,0 +1,185 @@
+{
+  "Projects": [
+    {
+      "Title": "FAU-G: Domination",
+      "Image": "src\\video\\Faugvid.mp4",
+      "IconImage": "src\\images\\FaugIcon.jpg",
+      "Position": "Game Programmer",
+      "Contributions": [
+        "Core Mechanics",
+        "Animations",
+        "Multiplayer",
+        "AI Systems",
+        "Backend",
+        "Sound Systems",
+        "UI"
+      ],
+      "Excerpt": "A First/Third Person Shooter designed for mobile devices. A multiplayer shooting game with various modes designed and programmed in Unity. It is a major live service game on the Indian Play Store and App Store.",
+      "KeyHead": [
+        "Procedural Animations",
+        "Gameplay Mechanics",
+        "Animations system",
+        "Multiplayer",
+        "NPC AI",
+        "Data Structures, Inventory and Backend Integration",
+        "Sound Systems"
+      ],
+      "KeyData": [
+        "Creating systems to adapt existing animations to correspond to player input to enhance Game Feel.",
+        "Creating First Person and Third Person Shooter mechanics like Locomotion, Gun play, etc.",
+        "Working in tandem with Animators to integrate and manage animations for 3D characters.",
+        "Syncing and managing Gameplay Data, Animations and Physics interaction over network while maintaining bandwidth.",
+        "Creating and refining friendly and enemy AI to produce a holistic experience.",
+        "Saving,displaying and utilizing Inventory throughout the game and over network.",
+        "Playing and Managing Music and SFX"
+      ],
+      "Links": "https://play.google.com/store/apps/details?id=com.dotnine.faug&hl=en_GB"
+    },
+    {
+      "Title": "Hidden Lens",
+       "Image": "src\\video\\Hiddenlens.mp4",
+       "IconImage": "src\\images\\HiddenLensIcon.png",
+      "Position": "Solo Developer",
+      "Contributions": [
+        "Core Mechanics",
+        "Animations",
+        "Multiplayer",
+        "AI Systems",
+        "Backend",
+        "Sound Systems",
+        "UI",
+        "VFX"
+      ],
+      "Excerpt": "A 2D Metroidvania style game created in Unity, with a unique mechanic of a Hidden Lens, which enables the player to see enemies and obstacles not visible normally. This project was made in an attempt to create a publishable project from scratch in the span of a month.",
+      "KeyHead": [
+        "Core Game Mechanics",
+        "Hidden Lens Mechanic",
+        "Enemy AI",
+        "Animations",
+        "Sound System",
+        "Level Design"
+      ],
+      "KeyData": [
+        "Creating gameplay systems of movement, abilities and attacking capabilities for the player character, taking inspiration from famous games in the genre like Hollow Knight, Silksong, Celeste, etc.",
+        "Creating and managing the Hidden Lens system with accordance to the Mana it requires and creating Visual Graph VFX for visual flair.",
+        "Creating an intuitive Enemy AI that responds to the player and has unique attributes depending on the enemy variety.",
+        "Using Assets to integrate animations and ensuring they work in tandem with the other systems in game.",
+        "Managing 3D sound sources on the Player, Enemies, environment and obstacles to accompany the gameplay and create an ambient environment.",
+        "Creating and designing levels and layouts to create an appealing environment that is also fun to interact with."
+      ],
+      "Links": "https://asdbuddy.itch.io/hidden-lens"
+    },
+    {
+      "Title": "Farm Fiends",
+       "Image": "src\\video\\Farmfiendsvid.mp4",
+       "IconImage": "src\\images\\FarmFiendsIcon.png",
+      "Position": "Lead Programmer",
+      "Contributions": [
+        "Animations",
+        "Multiplayer",
+        "AI Systems",
+        "Backend",
+        "Sound Systems",
+        "UI",
+        "VFX"
+      ],
+      "Excerpt": "A Top down Rougelike Time Survivor game created in Unity for an Industry project. We were given instructions on the genre and the team came up with ideas regarding the plot, setting and gameplay.",
+      "KeyHead": [
+        "Enemy AI",
+        "Animations",
+        "Gameplay Systems",
+        "2D VFX",
+        "Sound Systems"
+      ],
+      "KeyData": [
+        "Creating an intuitive Enemy AI that responds to the player and has unique attributes depending on the enemy variety.",
+        "Working in Tandem with the Arts team to integrate, setup and manage animations of all the characters in the game as well as UI Animations.",
+        "Systems that manage Time, Enemy Waves and their gradual difficulty increase, spawn systems, environment drops and game balancing.",
+        "Creating VFX of the 2D variety using Shader and Visual Graphs to give the UI more Flair.",
+        "Creating and managing sound systems on characters and the environment."
+       
+      ],
+      "Links": "https://loctivus.itch.io/farm-fiends"
+    },
+    {
+      "Title": "Ram Setu: The Run",
+       "Image": "src\\video\\Ramsetu.mp4",
+       "IconImage": "src\\images\\RamSetuIcon.jpg",
+      "Position": "Programmer",
+      "Contributions": [
+        "Core Mechanics",
+        "Animations",
+        "Multiplayer",
+        "AI Systems",
+        "Backend",
+        "UI"
+      ],
+      "Excerpt": "An Endless Runner created in Unity for the release of the Bollywood Movie of the same name.",
+      "KeyHead": [
+        "Gameplay Mechanics",
+        "Multiplayer",
+        "UI"
+      ],
+      "KeyData": [
+        "Streamlined core gameplay mechanics to be more intuitive to user input.",
+        "Created Local as well as Cross Network Multiplayer feature for the endless runner.",
+        "Integrated, managed and animated UI as designed by the Art team."
+      ],
+      "Links": "https://play.google.com/store/apps/details?id=com.dotnine.ramsetu&hl=en_GB"
+    },
+    {
+      "Title": "Lab Rat",
+       "Image": "src\\video\\Labrat.mp4",
+       "IconImage": "src\\images\\LabRatIcon.png",
+      "Position": "Programmer",
+      "Contributions": [
+        "Core Mechanics",
+        "Animations"
+
+      ],
+      "Excerpt": "A 3D puzzle game created for a short game jam. Where the player takes control of a rat accompanied by a wisp. Upon freezing time the player takes control of the wisp to scout and find hidden messages to solve puzzles.",
+      "KeyHead": [
+        "Core Mechanics",
+        "Camera Functionality",
+        "Input Handling",
+        "Animations",
+        "Lighting"
+      ],
+      "KeyData": [
+        "Character controllers for the Rat and Wisp their movements and the ability to grab and move items.",
+        "Camera movement and transition between the Rat and the Wisp.",
+        "Handling all the Input entered by the player to play the game.",
+        "Integrating and handling animations in tandem with the gameplay mechanics.",
+        "Managing and baking Scene Lighting."
+      ],
+      "Links": "https://somewhatunlikely.itch.io/chill-jam-4-lab-rat"
+    },
+    {
+      "Title": "Halloween Vs Christmas",
+       "Image": "src\\video\\Hallochrismtas.mp4",
+       "IconImage": "src\\images\\HalloweenChristmasIcon.png",
+      "Position": "Solo Developer",
+      "Contributions": [
+        "AI Systems",
+        "Core Mechanics",
+        "Animations",
+        "Sound Systems"
+      ],
+      "Excerpt": "A 3D Wave based survival game with an adaptive friendly AI that heals, shields and attacks depending on the player's gameplay style and situations. This was made as a programming research project on creating an adaptive friendly AI.",
+      "KeyHead": [
+        "Core Mechanics",
+        "Spawn Systems",
+        "Friendly AI",
+        "Level Design"
+      ],
+      "KeyData": [
+        "Player's movement, attack and defense capabilities along with those of the Friendly AI.",
+        "Spawning and Wave mechanics that increase in difficulty as game goes on.",
+        "Adaptive AI that reacts to player's playstyle (Ranged vs Melee) and provides healing and shields using a priority directive system.",
+        "Designing the level and allocating spawn locations."
+      ],
+      "Links": "https://asdbuddy.itch.io/halloween-vs-christmas"
+    }
+
+  ]
+}
