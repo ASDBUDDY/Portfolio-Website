@@ -1,7 +1,7 @@
 import HorizontalCardCap from "./HorizontalCardCap"
 import Data from '../ProjectData.json'
 import Scrollbar from "./Scrollbar";
-import React, { useState } from "react";
+import { useState } from "react";
 
 const ProjectData = Data.Projects;
 
