@@ -3,7 +3,7 @@
     {
       "Title": "FAU-G: Domination",
       "Image": ".\\src\\video\\Faugvid.mp4",
-      "IconImage": "src/images/FaugIcon.jpg",
+      "IconImage": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/images/FaugIcon.jpg?raw=true",
       "Position": "Game Programmer",
       "Contributions": [
         "Core Mechanics",
