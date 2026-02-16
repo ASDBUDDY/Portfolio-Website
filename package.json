@@ -1,6 +1,7 @@
 {
   "name": "react-app",
   "private": true,
+  "homepage": "https://asdbuddy.github.io/Portfolio-Website/",
   "version": "0.0.0",
   "type": "module",
   "scripts": {
