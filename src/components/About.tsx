@@ -4,7 +4,7 @@ const About = () => {
       <div id="scrollspyHeading3"
         className="container-fluid text-center bg-dark bg-opacity-25" style={{ minHeight: "400px"}}>
         <div className= "container py-5">
-            <div className="card bg-light mx-auto" style={{ width: "800px", justifySelf: 'center'}}>
+            <div className="card bg-light mx-auto" style={{  maxWidth: "800px", justifySelf: 'center'}}>
               <div className="card-body">
                 <h5 className="card-title">About Me</h5>
                 <hr
