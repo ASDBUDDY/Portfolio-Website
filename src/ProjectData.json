@@ -2,7 +2,7 @@
   "Projects": [
     {
       "Title": "FAU-G: Domination",
-      "Image": ".\\src\\video\\Faugvid.mp4",
+      "Image": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/video/Faugvid.mp4?raw=true",
       "IconImage": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/images/FaugIcon.jpg?raw=true",
       "Position": "Game Programmer",
       "Contributions": [
@@ -37,8 +37,8 @@
     },
     {
       "Title": "Hidden Lens",
-       "Image": "src\\video\\Hiddenlens.mp4",
-       "IconImage": "src\\images\\HiddenLensIcon.png",
+       "Image": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/video/Hiddenlens.mp4?raw=true",
+       "IconImage": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/images/HiddenLensIcon.png?raw=true",
       "Position": "Solo Developer",
       "Contributions": [
         "Core Mechanics",
@@ -71,8 +71,8 @@
     },
     {
       "Title": "Farm Fiends",
-       "Image": "src\\video\\Farmfiendsvid.mp4",
-       "IconImage": "src\\images\\FarmFiendsIcon.png",
+       "Image": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/video/Farmfiendsvid.mp4?raw=true",
+       "IconImage": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/images/FarmFiendsIcon.png?raw=true",
       "Position": "Lead Programmer",
       "Contributions": [
         "Animations",
@@ -103,8 +103,8 @@
     },
     {
       "Title": "Ram Setu: The Run",
-       "Image": "src\\video\\Ramsetu.mp4",
-       "IconImage": "src\\images\\RamSetuIcon.jpg",
+       "Image": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/video/Ramsetu.mp4?raw=true",
+       "IconImage": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/images/RamSetuIcon.jpg?raw=true",
       "Position": "Programmer",
       "Contributions": [
         "Core Mechanics",
@@ -129,8 +129,8 @@
     },
     {
       "Title": "Lab Rat",
-       "Image": "src\\video\\Labrat.mp4",
-       "IconImage": "src\\images\\LabRatIcon.png",
+       "Image": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/video/Labrat.mp4?raw=true",
+       "IconImage": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/images/LabRatIcon.png?raw=true",
       "Position": "Programmer",
       "Contributions": [
         "Core Mechanics",
@@ -156,8 +156,8 @@
     },
     {
       "Title": "Halloween Vs Christmas",
-       "Image": "src\\video\\Hallochrismtas.mp4",
-       "IconImage": "src\\images\\HalloweenChristmasIcon.png",
+       "Image": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/video/Hallochrismtas.mp4?raw=true",
+       "IconImage": "https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/images/HalloweenChristmasIcon.png?raw=true",
       "Position": "Solo Developer",
       "Contributions": [
         "AI Systems",

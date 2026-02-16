@@ -18,9 +18,9 @@ const Footer = () => {
         </div>
         <div className="col-lg-2">
             <a className="navbar-brand m-2" href="https://www.linkedin.com/in/adiraj-singh-6a36a6253/" target="_blank">
-            <img src="src\images\LinkedIn.png" alt="Bootstrap" width="50" height="50" /></a>
+            <img src="https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/images/LinkedIn.png?raw=true" alt="Bootstrap" width="50" height="50" /></a>
             <a className="navbar-brand m-2" href="mailto:adirajsingh.buddy@gmail.com" target="_blank">
-            <img src="src\images\Mail.png" alt="Bootstrap" width="50" height="50" /></a>
+            <img src="https://github.com/ASDBUDDY/Portfolio-Website/blob/main/src/images/Mail.png?raw=true" alt="Bootstrap" width="50" height="50" /></a>
         </div>
         </div>
         </div>
