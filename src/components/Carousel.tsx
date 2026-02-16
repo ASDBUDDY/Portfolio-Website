@@ -18,19 +18,19 @@ function CarouselNew() {
     return (
     <Carousel fade id="scrollspyHeading1" className='bg-dark'>
       <Carousel.Item interval={4000}>
-        <video src='src\video\Hiddenlens.mp4' className="d-block vw-100 vh-100 min-vw-50 min-vh-50" autoPlay muted loop />
+        <video src='Portfolio-Website\src\video\Hiddenlens.mp4' className="d-block vw-100 vh-100 min-vw-50 min-vh-50" autoPlay muted loop />
         <Carousel.Caption>
           {CaptionImage()}
         </Carousel.Caption>
       </Carousel.Item>
      <Carousel.Item interval={6000}>
-        <video src='src\video\Farmfiendsvid.mp4' className="d-block vw-100 vh-100 min-vw-50 min-vh-50" autoPlay muted loop />
+        <video src='Portfolio-Website\src\video\Farmfiendsvid.mp4' className="d-block vw-100 vh-100 min-vw-50 min-vh-50" autoPlay muted loop />
         <Carousel.Caption>
           {CaptionImage()}
         </Carousel.Caption>
       </Carousel.Item>
       <Carousel.Item interval={5000}>
-        <video src='src\video\Faugvid.mp4' className="d-block vw-100 vh-100 min-vw-50 min-vh-50" autoPlay muted loop />
+        <video src='Portfolio-Website\src\video\Faugvid.mp4' className="d-block vw-100 vh-100 min-vw-50 min-vh-50" autoPlay muted loop />
         <Carousel.Caption>
           {CaptionImage()}
         </Carousel.Caption>
