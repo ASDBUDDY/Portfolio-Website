@@ -2,8 +2,8 @@
   "Projects": [
     {
       "Title": "FAU-G: Domination",
-      "Image": "src\\video\\Faugvid.mp4",
-      "IconImage": "src\\images\\FaugIcon.jpg",
+      "Image": ".\\src\\video\\Faugvid.mp4",
+      "IconImage": ".\\src\\images\\FaugIcon.jpg",
       "Position": "Game Programmer",
       "Contributions": [
         "Core Mechanics",
