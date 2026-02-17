@@ -32,7 +32,7 @@ const About = () => {
                   worked on projects both on Mobile Phones (Android as well as
                   iOS) as well as PC.
                 </p>
-                <a href="https://drive.google.com/file/d/1xwPcqs3EcadNuLvIGYWYIHVJUrW9B7qW/view?usp=sharing" target="_blank" className="btn btn-primary">
+                <a href="https://drive.google.com/file/d/1iY-Fej13voBTB50x4zeRgRj_lTvMKd5M/view?usp=sharing" target="_blank" className="btn btn-primary">
                   Download My CV
                 </a>
                
